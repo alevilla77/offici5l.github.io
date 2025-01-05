@@ -1,1 +1,1 @@
-https://offici5l.github.io/
+curl-o $PREFIX/bin/unlock https://
